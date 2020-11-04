@@ -1,0 +1,86 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "blocks/glass_white",
+		"particle": "blocks/glass_white"
+	},
+	"elements": [
+		{
+			"name": "LeftSide",
+			"from": [3, 0, 7],
+			"to": [5, 13, 9],
+			"faces": {
+				"north": {"uv": [12, 1, 14, 14], "texture": "#0"},
+				"east": {"uv": [12, 1, 14, 14], "texture": "#0"},
+				"south": {"uv": [12, 1, 14, 14], "texture": "#0"},
+				"west": {"uv": [12, 1, 14, 14], "texture": "#0"},
+				"up": {"uv": [11, 11, 13, 13], "texture": "#0"},
+				"down": {"uv": [11, 11, 13, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "RightSide",
+			"from": [11, 0, 7],
+			"to": [13, 13, 9],
+			"faces": {
+				"north": {"uv": [12, 1, 14, 14], "texture": "#0"},
+				"east": {"uv": [12, 1, 14, 14], "texture": "#0"},
+				"south": {"uv": [12, 1, 14, 14], "texture": "#0"},
+				"west": {"uv": [12, 1, 14, 14], "texture": "#0"},
+				"up": {"uv": [11, 11, 13, 13], "texture": "#0"},
+				"down": {"uv": [11, 11, 13, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Top",
+			"from": [5, 11, 7],
+			"to": [11, 13, 9],
+			"faces": {
+				"north": {"uv": [8, 10, 14, 12], "texture": "#0"},
+				"east": {"uv": [11, 11, 13, 13], "texture": "#0"},
+				"south": {"uv": [8, 10, 14, 12], "texture": "#0"},
+				"west": {"uv": [11, 11, 13, 13], "texture": "#0"},
+				"up": {"uv": [8, 10, 14, 12], "texture": "#0"},
+				"down": {"uv": [8, 10, 14, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Middle",
+			"from": [5, 4, 7],
+			"to": [11, 6, 9],
+			"faces": {
+				"north": {"uv": [8, 10, 14, 12], "texture": "#0"},
+				"east": {"uv": [11, 11, 13, 13], "texture": "#0"},
+				"south": {"uv": [8, 10, 14, 12], "texture": "#0"},
+				"west": {"uv": [11, 11, 13, 13], "texture": "#0"},
+				"up": {"uv": [8, 10, 14, 12], "texture": "#0"},
+				"down": {"uv": [8, 10, 14, 12], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5],
+			"rotation": [0, 0, 0],
+			"translation": [0, 4.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5],
+			"translation": [0, 4.5, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0.5, 0.5, 0.5],
+			"translation": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0.7, 0.7, 0.7],
+			"translation": [0, 2, 0]
+		},
+		"fixed": {
+			"translation": [0, 1.5, 0]
+		},
+		"gui": {
+			"translation": [0, 1.5, 0]
+		}
+	}
+}

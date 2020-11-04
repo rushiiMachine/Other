@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "forge:fluid"
+  },
+  "variants": {
+    "molten_glass_black": [
+      {
+        "custom": {
+          "fluid": "molten_glass_black"
+        }
+      }
+    ]
+  }
+}

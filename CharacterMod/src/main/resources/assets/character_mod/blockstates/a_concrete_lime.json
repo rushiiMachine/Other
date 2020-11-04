@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "character_mod:a_concrete_lime", "y": 0 },
+    "facing=west": { "model": "character_mod:a_concrete_lime", "y": 90 },
+    "facing=north": { "model": "character_mod:a_concrete_lime", "y": 180 },
+    "facing=east": { "model": "character_mod:a_concrete_lime", "y": 270 }
+  }
+}

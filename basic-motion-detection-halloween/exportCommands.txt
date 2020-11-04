@@ -1,0 +1,8 @@
+# localhost display X server
+export DISPLAY=:0.0
+
+# to change change 
+:0.0
+# to
+:1.0
+# or similar

@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=south": { "model": "character_mod:d_concrete_purple", "y": 0 },
+		"facing=west": { "model": "character_mod:d_concrete_purple", "y": 90 },
+		"facing=north": { "model": "character_mod:d_concrete_purple", "y": 180 },
+		"facing=east": { "model": "character_mod:d_concrete_purple", "y": 270 }
+	}
+}

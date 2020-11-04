@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "character_mod:items/cutter_glass_diamond"
+  }
+}

@@ -1,0 +1,898 @@
+[
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:cutter_glass_diamond",
+        "data": 32767
+      },
+      {
+        "item": "character_mod:cutter_glass_gold",
+        "data": 32767
+      },
+      {
+        "item": "character_mod:cutter_glass_iron",
+        "data": 32767
+      }
+    ],
+    "name": "CUTTERGLASS"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:chisel_diamond",
+        "data": 32767
+      },
+      {
+        "item": "character_mod:chisel_gold",
+        "data": 32767
+      },
+      {
+        "item": "character_mod:chisel_iron",
+        "data": 32767
+      }
+    ],
+    "name": "CHISEL"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_black"
+      }
+    ],
+    "name": "GLASS_SHARD_BLACK"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_blue"
+      }
+    ],
+    "name": "GLASS_SHARD_BLUE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_brown"
+      }
+    ],
+    "name": "GLASS_SHARD_BROWN"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_clear"
+      }
+    ],
+    "name": "GLASS_SHARD_CLEAR"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_cyan"
+      }
+    ],
+    "name": "GLASS_SHARD_CYAN"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_gray"
+      }
+    ],
+    "name": "GLASS_SHARD_GRAY"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_green"
+      }
+    ],
+    "name": "GLASS_SHARD_GREEN"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_light_blue"
+      }
+    ],
+    "name": "GLASS_SHARD_LIGHT_BLUE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_lime"
+      }
+    ],
+    "name": "GLASS_SHARD_LIME"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_magenta"
+      }
+    ],
+    "name": "GLASS_SHARD_MAGENTA"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_orange"
+      }
+    ],
+    "name": "GLASS_SHARD_ORANGE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_pink"
+      }
+    ],
+    "name": "GLASS_SHARD_PINK"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_purple"
+      }
+    ],
+    "name": "GLASS_SHARD_PURPLE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_red"
+      }
+    ],
+    "name": "GLASS_SHARD_RED"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_silver"
+      }
+    ],
+    "name": "GLASS_SHARD_SILVER"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_white"
+      }
+    ],
+    "name": "GLASS_SHARD_WHITE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:glass_shard_yellow"
+      }
+    ],
+    "name": "GLASS_SHARD_YELLOW"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+    "name": "GLASS"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 15
+      }
+    ],
+    "name": "GLASS_BLACK"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 11
+      }
+    ],
+    "name": "GLASS_BLUE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 12
+      }
+    ],
+    "name": "GLASS_BROWN"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 9
+      }
+    ],
+    "name": "GLASS_CYAN"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 7
+      }
+    ],
+    "name": "GLASS_GRAY"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 3
+      }
+    ],
+    "name": "GLASS_LIGHT_BLUE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 5
+      }
+    ],
+    "name": "GLASS_LIME"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 2
+      }
+    ],
+    "name": "GLASS_MAGENTA"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 1
+      }
+    ],
+    "name": "GLASS_GREEN"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 6
+      }
+    ],
+    "name": "GLASS_ORANGE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 6
+      }
+    ],
+    "name": "GLASS_PINK"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 10
+      }
+    ],
+    "name": "GLASS_PURPLE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 14
+      }
+    ],
+    "name": "GLASS_RED"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 8
+      }
+    ],
+    "name": "GLASS_SILVER"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 0
+      }
+    ],
+    "name": "GLASS_WHITE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:stained_glass",
+        "data": 4
+      }
+    ],
+    "name": "GLASS_YELLOW"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_a"
+      }
+    ],
+    "name": "MOLD_A"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_b"
+      }
+    ],
+    "name": "MOLD_B"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_c"
+      }
+    ],
+    "name": "MOLD_C"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_d"
+      }
+    ],
+    "name": "MOLD_D"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_e"
+      }
+    ],
+    "name": "MOLD_E"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_f"
+      }
+    ],
+    "name": "MOLD_F"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_g"
+      }
+    ],
+    "name": "MOLD_G"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_h"
+      }
+    ],
+    "name": "MOLD_H"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_i"
+      }
+    ],
+    "name": "MOLD_I"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_j"
+      }
+    ],
+    "name": "MOLD_J"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_k"
+      }
+    ],
+    "name": "MOLD_K"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_l"
+      }
+    ],
+    "name": "MOLD_L"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_m"
+      }
+    ],
+    "name": "MOLD_M"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_n"
+      }
+    ],
+    "name": "MOLD_N"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_o"
+      }
+    ],
+    "name": "MOLD_O"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_p"
+      }
+    ],
+    "name": "MOLD_P"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_q"
+      }
+    ],
+    "name": "MOLD_Q"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_r"
+      }
+    ],
+    "name": "MOLD_R"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_s"
+      }
+    ],
+    "name": "MOLD_S"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_t"
+      }
+    ],
+    "name": "MOLD_T"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_u"
+      }
+    ],
+    "name": "MOLD_U"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_v"
+      }
+    ],
+    "name": "MOLD_V"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_w"
+      }
+    ],
+    "name": "MOLD_W"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_x"
+      }
+    ],
+    "name": "MOLD_X"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_y"
+      }
+    ],
+    "name": "MOLD_Y"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "character_mod:mold_z"
+      }
+    ],
+    "name": "MOLD_Z"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_black",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_BLACK"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_blue",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_BLUE"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_brown",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_BROWN"
+  },
+
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_clear",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_CLEAR"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_cyan",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_CYAN"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_gray",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_GRAY"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_green",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_GREEN"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_light_blue",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_LIGHT_BLUE"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_lime",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_LIME"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_magenta",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_MAGENTA"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_orange",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_ORANGE"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_pink",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_PINK"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_purple",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_PURPLE"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_red",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_RED"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_silver",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_SILVER"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_white",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_WHITE"
+  },
+  {
+    "ingredient": [
+      {
+        "type": "minecraft:item_nbt",
+        "item": "forge:bucketFilled",
+        "nbt": {
+          "FluidName": "molten_glass_yellow",
+          "Amount": 1000
+        }
+      }
+    ],
+    "name": "MOLTEN_GLASS_YELLOW"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 15
+      }
+    ],
+    "name": "CONCRETE_BLACK"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 11
+      }
+    ],
+    "name": "CONCRETE_BLUE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 12
+      }
+    ],
+    "name": "CONCRETE_BROWN"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 9
+      }
+    ],
+    "name": "CONCRETE_CYAN"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 7
+      }
+    ],
+    "name": "CONCRETE_GRAY"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 13
+      }
+    ],
+    "name": "CONCRETE_GREEN"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 3
+      }
+    ],
+    "name": "CONCRETE_LIGHT_BLUE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 5
+      }
+    ],
+    "name": "CONCRETE_LIME"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 2
+      }
+    ],
+    "name": "CONCRETE_MAGENTA"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 1
+      }
+    ],
+    "name": "CONCRETE_ORANGE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 6
+      }
+    ],
+    "name": "CONCRETE_PINK"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 10
+      }
+    ],
+    "name": "CONCRETE_PURPLE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 14
+      }
+    ],
+    "name": "CONCRETE_RED"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 8
+      }
+    ],
+    "name": "CONCRETE_SILVER"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 1
+      }
+    ],
+    "name": "CONCRETE_WHITE"
+  },
+  {
+    "ingredient": [
+      {
+        "item": "minecraft:concrete",
+        "data": 4
+      }
+    ],
+    "name": "CONCRETE_YELLOW"
+  }
+]

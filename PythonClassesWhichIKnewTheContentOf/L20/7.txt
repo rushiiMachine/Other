@@ -1,0 +1,13 @@
+Mr. Spy received an encoded message from his superiors.
+He knows that it was encoded with the following cipher:
+− The message was first split into two halves (if the number of letterswas odd, then the first “half” was made 1 letter longer)
+− The final encoded message was made by alternating the letters fromboth halves.
+For example:
+the word "computers" will be first split into two “halves”: "compu" and "ters".
+Then, the encoded message will be "ctoemrpsu".
+Write a function with 1 parameter: an encoded message. It should decode and return the messagefor Mr. Spy.
+Examples:
+decode("ctoemrpsu") → "computers"
+decode("phyotn") → "python"
+Can your function decode the message below?
+"mciosmspiloins haecd"

@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern":
+  [
+    "c",
+    "b",
+    "m"
+  ],
+  "key":
+  {
+    "c": { "item": "#CHISEL" },
+    "b": { "item": "#CONCRETE_CYAN" },
+    "m": { "item": "#MOLD_A" }
+  },
+  "result":
+  {
+    "item": "character_mod:a_concrete_cyan"
+  }
+}

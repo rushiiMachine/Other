@@ -1,0 +1,516 @@
+#Creative Tabs
+itemGroup.character_mod=Characters
+
+#Fluids
+fluid.molten_glass_black=Black Molten Glass
+fluid.molten_glass_blue=Blue Molten Glass
+fluid.molten_glass_brown=Brown Molten Glass
+fluid.molten_glass_clear=Clear Molten Glass
+fluid.molten_glass_cyan=Cyan Molten Glass
+fluid.molten_glass_gray=Gray Molten Glass
+fluid.molten_glass_green=Green Molten Glass
+fluid.molten_glass_light_blue=Light Blue Molten Glass
+fluid.molten_glass_lime=Lime Molten Glass
+fluid.molten_glass_magenta=Magenta Molten Glass
+fluid.molten_glass_orange=Orange Molten Glass
+fluid.molten_glass_pink=Pink Molten Glass
+fluid.molten_glass_purple=Purple Molten Glass
+fluid.molten_glass_red=Red Molten Glass
+fluid.molten_glass_silver=Silver Molten Glass
+fluid.molten_glass_white=White Molten Glass
+fluid.molten_glass_yellow=Yellow Molten Glass
+
+#Items
+item.character_mod.glass_shard_clear.name=Glass Shard
+item.character_mod.glass_shard_black.name=Black Glass Shard
+item.character_mod.glass_shard_blue.name=Blue Glass Shard
+item.character_mod.glass_shard_brown.name=Brown Glass Shard
+item.character_mod.glass_shard_cyan.name=Cyan Glass Shard
+item.character_mod.glass_shard_gray.name=Gray Glass Shard
+item.character_mod.glass_shard_green.name=Green Glass Shard
+item.character_mod.glass_shard_light_blue.name=Light Blue Glass Shard
+item.character_mod.glass_shard_lime.name=Lime Glass Shard
+item.character_mod.glass_shard_magenta.name=Magenta Glass Shard
+item.character_mod.glass_shard_orange.name=Orange Glass Shard
+item.character_mod.glass_shard_pink.name=Pink Glass Shard
+item.character_mod.glass_shard_purple.name=Purple Glass Shard
+item.character_mod.glass_shard_red.name=Red Glass Shard
+item.character_mod.glass_shard_silver.name=Silver Glass Shard
+item.character_mod.glass_shard_white.name=White Glass Shard
+item.character_mod.glass_shard_yellow.name=Yellow Glass Shard
+
+#Item Tools
+item.character_mod.cutter_glass_diamond.name=Diamond Glass Cutter
+item.character_mod.cutter_glass_gold.name=Gold Glass Cutter
+item.character_mod.cutter_glass_iron.name=Iron Glass Cutter
+item.character_mod.chisel_diamond.name=Diamond Chisel
+item.character_mod.chisel_gold.name=Gold Chisel
+item.character_mod.chisel_iron.name=Iron Chisel
+
+#Concrete A
+tile.character_mod.a_concrete_black.name=Black Concrete A
+tile.character_mod.a_concrete_blue.name=Blue Concrete A
+tile.character_mod.a_concrete_brown.name=Brown Concrete A
+tile.character_mod.a_concrete_cyan.name=Cyan Concrete A
+tile.character_mod.a_concrete_gray.name=Gray Concrete A
+tile.character_mod.a_concrete_green.name=Green Concrete A
+tile.character_mod.a_concrete_light_blue.name=Light Blue Concrete A
+tile.character_mod.a_concrete_lime.name=Lime Concrete A
+tile.character_mod.a_concrete_magenta.name=Magenta Concrete A
+tile.character_mod.a_concrete_orange.name=Orange Concrete A
+tile.character_mod.a_concrete_pink.name=Pink Concrete A
+tile.character_mod.a_concrete_purple.name=Purple Concrete A
+tile.character_mod.a_concrete_red.name=Red Concrete A
+tile.character_mod.a_concrete_silver.name=Silver Concrete A
+tile.character_mod.a_concrete_white.name=White Concrete A
+tile.character_mod.a_concrete_yellow.name=Yellow Concrete A
+
+#Concrete B
+tile.character_mod.b_concrete_black.name=Black Concrete B
+tile.character_mod.b_concrete_blue.name=Blue Concrete B
+tile.character_mod.b_concrete_brown.name=Brown Concrete B
+tile.character_mod.b_concrete_cyan.name=Cyan Concrete B
+tile.character_mod.b_concrete_green.name=Green Concrete B
+tile.character_mod.b_concrete_gray.name=Gray Concrete B
+tile.character_mod.b_concrete_light_blue.name=Light Blue Concrete B
+tile.character_mod.b_concrete_lime.name=Lime Concrete B
+tile.character_mod.b_concrete_magenta.name=Magenta Concrete B
+tile.character_mod.b_concrete_orange.name=Orange Concrete B
+tile.character_mod.b_concrete_pink.name=Pink Concrete B
+tile.character_mod.b_concrete_purple.name=Purple Concrete B
+tile.character_mod.b_concrete_red.name=Red Concrete B
+tile.character_mod.b_concrete_silver.name=Silver Concrete B
+tile.character_mod.b_concrete_white.name=White Concrete B
+tile.character_mod.b_concrete_yellow.name=Yellow Concrete B
+
+#Concrete C
+tile.character_mod.c_concrete_black.name=Black Concrete C
+tile.character_mod.c_concrete_blue.name=Blue Concrete C
+tile.character_mod.c_concrete_brown.name=Brown Concrete C
+tile.character_mod.c_concrete_cyan.name=Cyan Concrete C
+tile.character_mod.c_concrete_green.name=Green Concrete C
+tile.character_mod.c_concrete_gray.name=Gray Concrete C
+tile.character_mod.c_concrete_light_blue.name=Light Blue Concrete C
+tile.character_mod.c_concrete_lime.name=Lime Concrete C
+tile.character_mod.c_concrete_magenta.name=Magenta Concrete C
+tile.character_mod.c_concrete_orange.name=Orange Concrete C
+tile.character_mod.c_concrete_pink.name=Pink Concrete C
+tile.character_mod.c_concrete_purple.name=Purple Concrete C
+tile.character_mod.c_concrete_red.name=Red Concrete C
+tile.character_mod.c_concrete_silver.name=Silver Concrete C
+tile.character_mod.c_concrete_white.name=White Concrete C
+tile.character_mod.c_concrete_yellow.name=Yellow Concrete C
+
+#Concrete D
+tile.character_mod.d_concrete_black.name=Black Concrete D
+tile.character_mod.d_concrete_blue.name=Blue Concrete D
+tile.character_mod.d_concrete_brown.name=Brown Concrete D
+tile.character_mod.d_concrete_cyan.name=Cyan Concrete D
+tile.character_mod.d_concrete_green.name=Green Concrete D
+tile.character_mod.d_concrete_gray.name=Gray Concrete D
+tile.character_mod.d_concrete_light_blue.name=Light Blue Concrete D
+tile.character_mod.d_concrete_lime.name=Lime Concrete D
+tile.character_mod.d_concrete_magenta.name=Magenta Concrete D
+tile.character_mod.d_concrete_orange.name=Orange Concrete D
+tile.character_mod.d_concrete_pink.name=Pink Concrete D
+tile.character_mod.d_concrete_purple.name=Purple Concrete D
+tile.character_mod.d_concrete_red.name=Red Concrete D
+tile.character_mod.d_concrete_silver.name=Silver Concrete D
+tile.character_mod.d_concrete_white.name=White Concrete D
+tile.character_mod.d_concrete_yellow.name=Yellow Concrete D
+
+#Concrete E
+tile.character_mod.e_concrete_black.name=Black Concrete E
+tile.character_mod.e_concrete_blue.name=Blue Concrete E
+tile.character_mod.e_concrete_brown.name=Brown Concrete E
+tile.character_mod.e_concrete_cyan.name=Cyan Concrete E
+tile.character_mod.e_concrete_green.name=Green Concrete E
+tile.character_mod.e_concrete_gray.name=Gray Concrete E
+tile.character_mod.e_concrete_light_blue.name=Light Blue Concrete E
+tile.character_mod.e_concrete_lime.name=Lime Concrete E
+tile.character_mod.e_concrete_magenta.name=Magenta Concrete E
+tile.character_mod.e_concrete_orange.name=Orange Concrete E
+tile.character_mod.e_concrete_pink.name=Pink Concrete E
+tile.character_mod.e_concrete_purple.name=Purple Concrete E
+tile.character_mod.e_concrete_red.name=Red Concrete E
+tile.character_mod.e_concrete_silver.name=Silver Concrete E
+tile.character_mod.e_concrete_white.name=White Concrete E
+tile.character_mod.e_concrete_yellow.name=Yellow Concrete E
+
+#Concrete F
+tile.character_mod.f_concrete_black.name=Black Concrete F
+tile.character_mod.f_concrete_blue.name=Blue Concrete F
+tile.character_mod.f_concrete_brown.name=Brown Concrete F
+tile.character_mod.f_concrete_cyan.name=Cyan Concrete F
+tile.character_mod.f_concrete_green.name=Green Concrete F
+tile.character_mod.f_concrete_gray.name=Gray Concrete F
+tile.character_mod.f_concrete_light_blue.name=Light Blue Concrete F
+tile.character_mod.f_concrete_lime.name=Lime Concrete F
+tile.character_mod.f_concrete_magenta.name=Magenta Concrete F
+tile.character_mod.f_concrete_orange.name=Orange Concrete F
+tile.character_mod.f_concrete_pink.name=Pink Concrete F
+tile.character_mod.f_concrete_purple.name=Purple Concrete F
+tile.character_mod.f_concrete_red.name=Red Concrete F
+tile.character_mod.f_concrete_silver.name=Silver Concrete F
+tile.character_mod.f_concrete_white.name=White Concrete F
+tile.character_mod.f_concrete_yellow.name=Yellow Concrete F
+
+#Concrete G
+tile.character_mod.g_concrete_black.name=Black Concrete G
+tile.character_mod.g_concrete_blue.name=Blue Concrete G
+tile.character_mod.g_concrete_brown.name=Brown Concrete G
+tile.character_mod.g_concrete_cyan.name=Cyan Concrete G
+tile.character_mod.g_concrete_green.name=Green Concrete G
+tile.character_mod.g_concrete_gray.name=Gray Concrete G
+tile.character_mod.g_concrete_light_blue.name=Light Blue Concrete G
+tile.character_mod.g_concrete_lime.name=Lime Concrete G
+tile.character_mod.g_concrete_magenta.name=Magenta Concrete G
+tile.character_mod.g_concrete_orange.name=Orange Concrete G
+tile.character_mod.g_concrete_pink.name=Pink Concrete G
+tile.character_mod.g_concrete_purple.name=Purple Concrete G
+tile.character_mod.g_concrete_red.name=Red Concrete G
+tile.character_mod.g_concrete_silver.name=Silver Concrete G
+tile.character_mod.g_concrete_white.name=White Concrete G
+tile.character_mod.g_concrete_yellow.name=Yellow Concrete G
+
+#Concrete H
+tile.character_mod.h_concrete_black.name=Black Concrete H
+tile.character_mod.h_concrete_blue.name=Blue Concrete H
+tile.character_mod.h_concrete_brown.name=Brown Concrete H
+tile.character_mod.h_concrete_cyan.name=Cyan Concrete H
+tile.character_mod.h_concrete_green.name=Green Concrete H
+tile.character_mod.h_concrete_gray.name=Gray Concrete H
+tile.character_mod.h_concrete_light_blue.name=Light Blue Concrete H
+tile.character_mod.h_concrete_lime.name=Lime Concrete H
+tile.character_mod.h_concrete_magenta.name=Magenta Concrete H
+tile.character_mod.h_concrete_orange.name=Orange Concrete H
+tile.character_mod.h_concrete_pink.name=Pink Concrete H
+tile.character_mod.h_concrete_purple.name=Purple Concrete H
+tile.character_mod.h_concrete_red.name=Red Concrete H
+tile.character_mod.h_concrete_silver.name=Silver Concrete H
+tile.character_mod.h_concrete_white.name=White Concrete H
+tile.character_mod.h_concrete_yellow.name=Yellow Concrete H
+
+#Concrete I
+tile.character_mod.i_concrete_black.name=Black Concrete I
+tile.character_mod.i_concrete_blue.name=Blue Concrete I
+tile.character_mod.i_concrete_brown.name=Brown Concrete I
+tile.character_mod.i_concrete_cyan.name=Cyan Concrete I
+tile.character_mod.i_concrete_green.name=Green Concrete I
+tile.character_mod.i_concrete_gray.name=Gray Concrete I
+tile.character_mod.i_concrete_light_blue.name=Light Blue Concrete I
+tile.character_mod.i_concrete_lime.name=Lime Concrete I
+tile.character_mod.i_concrete_magenta.name=Magenta Concrete I
+tile.character_mod.i_concrete_orange.name=Orange Concrete I
+tile.character_mod.i_concrete_pink.name=Pink Concrete I
+tile.character_mod.i_concrete_purple.name=Purple Concrete I
+tile.character_mod.i_concrete_red.name=Red Concrete I
+tile.character_mod.i_concrete_silver.name=Silver Concrete I
+tile.character_mod.i_concrete_white.name=White Concrete I
+tile.character_mod.i_concrete_yellow.name=Yellow Concrete I
+
+#Concrete J
+tile.character_mod.j_concrete_black.name=Black Concrete J
+tile.character_mod.j_concrete_blue.name=Blue Concrete J
+tile.character_mod.j_concrete_brown.name=Brown Concrete J
+tile.character_mod.j_concrete_cyan.name=Cyan Concrete J
+tile.character_mod.j_concrete_green.name=Green Concrete J
+tile.character_mod.j_concrete_gray.name=Gray Concrete J
+tile.character_mod.j_concrete_light_blue.name=Light Blue Concrete J
+tile.character_mod.j_concrete_lime.name=Lime Concrete J
+tile.character_mod.j_concrete_magenta.name=Magenta Concrete J
+tile.character_mod.j_concrete_orange.name=Orange Concrete J
+tile.character_mod.j_concrete_pink.name=Pink Concrete J
+tile.character_mod.j_concrete_purple.name=Purple Concrete J
+tile.character_mod.j_concrete_red.name=Red Concrete J
+tile.character_mod.j_concrete_silver.name=Silver Concrete J
+tile.character_mod.j_concrete_white.name=White Concrete J
+tile.character_mod.j_concrete_yellow.name=Yellow Concrete J
+
+#Concrete K
+tile.character_mod.k_concrete_black.name=Black Concrete K
+tile.character_mod.k_concrete_blue.name=Blue Concrete K
+tile.character_mod.k_concrete_brown.name=Brown Concrete K
+tile.character_mod.k_concrete_cyan.name=Cyan Concrete K
+tile.character_mod.k_concrete_green.name=Green Concrete K
+tile.character_mod.k_concrete_gray.name=Gray Concrete K
+tile.character_mod.k_concrete_light_blue.name=Light Blue Concrete K
+tile.character_mod.k_concrete_lime.name=Lime Concrete K
+tile.character_mod.k_concrete_magenta.name=Magenta Concrete K
+tile.character_mod.k_concrete_orange.name=Orange Concrete K
+tile.character_mod.k_concrete_pink.name=Pink Concrete K
+tile.character_mod.k_concrete_purple.name=Purple Concrete K
+tile.character_mod.k_concrete_red.name=Red Concrete K
+tile.character_mod.k_concrete_silver.name=Silver Concrete K
+tile.character_mod.k_concrete_white.name=White Concrete K
+tile.character_mod.k_concrete_yellow.name=Yellow Concrete K
+
+#Concrete L
+tile.character_mod.l_concrete_black.name=Black Concrete L
+tile.character_mod.l_concrete_blue.name=Blue Concrete L
+tile.character_mod.l_concrete_brown.name=Brown Concrete L
+tile.character_mod.l_concrete_cyan.name=Cyan Concrete L
+tile.character_mod.l_concrete_green.name=Green Concrete L
+tile.character_mod.l_concrete_gray.name=Gray Concrete L
+tile.character_mod.l_concrete_light_blue.name=Light Blue Concrete L
+tile.character_mod.l_concrete_lime.name=Lime Concrete L
+tile.character_mod.l_concrete_magenta.name=Magenta Concrete L
+tile.character_mod.l_concrete_orange.name=Orange Concrete L
+tile.character_mod.l_concrete_pink.name=Pink Concrete L
+tile.character_mod.l_concrete_purple.name=Purple Concrete L
+tile.character_mod.l_concrete_red.name=Red Concrete L
+tile.character_mod.l_concrete_silver.name=Silver Concrete L
+tile.character_mod.l_concrete_white.name=White Concrete L
+tile.character_mod.l_concrete_yellow.name=Yellow Concrete L
+
+#Concrete M
+tile.character_mod.m_concrete_black.name=Black Concrete M
+tile.character_mod.m_concrete_blue.name=Blue Concrete M
+tile.character_mod.m_concrete_brown.name=Brown Concrete M
+tile.character_mod.m_concrete_cyan.name=Cyan Concrete M
+tile.character_mod.m_concrete_green.name=Green Concrete M
+tile.character_mod.m_concrete_gray.name=Gray Concrete M
+tile.character_mod.m_concrete_light_blue.name=Light Blue Concrete M
+tile.character_mod.m_concrete_lime.name=Lime Concrete M
+tile.character_mod.m_concrete_magenta.name=Magenta Concrete M
+tile.character_mod.m_concrete_orange.name=Orange Concrete M
+tile.character_mod.m_concrete_pink.name=Pink Concrete M
+tile.character_mod.m_concrete_purple.name=Purple Concrete M
+tile.character_mod.m_concrete_red.name=Red Concrete M
+tile.character_mod.m_concrete_silver.name=Silver Concrete M
+tile.character_mod.m_concrete_white.name=White Concrete M
+tile.character_mod.m_concrete_yellow.name=Yellow Concrete M
+
+#Concrete N
+tile.character_mod.n_concrete_black.name=Black Concrete N
+tile.character_mod.n_concrete_blue.name=Blue Concrete N
+tile.character_mod.n_concrete_brown.name=Brown Concrete N
+tile.character_mod.n_concrete_cyan.name=Cyan Concrete N
+tile.character_mod.n_concrete_green.name=Green Concrete N
+tile.character_mod.n_concrete_gray.name=Gray Concrete N
+tile.character_mod.n_concrete_light_blue.name=Light Blue Concrete N
+tile.character_mod.n_concrete_lime.name=Lime Concrete N
+tile.character_mod.n_concrete_magenta.name=Magenta Concrete N
+tile.character_mod.n_concrete_orange.name=Orange Concrete N
+tile.character_mod.n_concrete_pink.name=Pink Concrete N
+tile.character_mod.n_concrete_purple.name=Purple Concrete N
+tile.character_mod.n_concrete_red.name=Red Concrete N
+tile.character_mod.n_concrete_silver.name=Silver Concrete N
+tile.character_mod.n_concrete_white.name=White Concrete N
+tile.character_mod.n_concrete_yellow.name=Yellow Concrete N
+
+#Concrete O
+tile.character_mod.o_concrete_black.name=Black Concrete O
+tile.character_mod.o_concrete_blue.name=Blue Concrete O
+tile.character_mod.o_concrete_brown.name=Brown Concrete O
+tile.character_mod.o_concrete_cyan.name=Cyan Concrete O
+tile.character_mod.o_concrete_green.name=Green Concrete O
+tile.character_mod.o_concrete_gray.name=Gray Concrete O
+tile.character_mod.o_concrete_light_blue.name=Light Blue Concrete O
+tile.character_mod.o_concrete_lime.name=Lime Concrete O
+tile.character_mod.o_concrete_magenta.name=Magenta Concrete O
+tile.character_mod.o_concrete_orange.name=Orange Concrete O
+tile.character_mod.o_concrete_pink.name=Pink Concrete O
+tile.character_mod.o_concrete_purple.name=Purple Concrete O
+tile.character_mod.o_concrete_red.name=Red Concrete O
+tile.character_mod.o_concrete_silver.name=Silver Concrete O
+tile.character_mod.o_concrete_white.name=White Concrete O
+tile.character_mod.o_concrete_yellow.name=Yellow Concrete O
+
+#Concrete P
+tile.character_mod.p_concrete_black.name=Black Concrete P
+tile.character_mod.p_concrete_blue.name=Blue Concrete P
+tile.character_mod.p_concrete_brown.name=Brown Concrete P
+tile.character_mod.p_concrete_cyan.name=Cyan Concrete P
+tile.character_mod.p_concrete_green.name=Green Concrete P
+tile.character_mod.p_concrete_gray.name=Gray Concrete P
+tile.character_mod.p_concrete_light_blue.name=Light Blue Concrete P
+tile.character_mod.p_concrete_lime.name=Lime Concrete P
+tile.character_mod.p_concrete_magenta.name=Magenta Concrete P
+tile.character_mod.p_concrete_orange.name=Orange Concrete P
+tile.character_mod.p_concrete_pink.name=Pink Concrete P
+tile.character_mod.p_concrete_purple.name=Purple Concrete P
+tile.character_mod.p_concrete_red.name=Red Concrete P
+tile.character_mod.p_concrete_silver.name=Silver Concrete P
+tile.character_mod.p_concrete_white.name=White Concrete P
+tile.character_mod.p_concrete_yellow.name=Yellow Concrete P
+
+#Concrete Q
+tile.character_mod.q_concrete_black.name=Black Concrete Q
+tile.character_mod.q_concrete_blue.name=Blue Concrete Q
+tile.character_mod.q_concrete_brown.name=Brown Concrete Q
+tile.character_mod.q_concrete_cyan.name=Cyan Concrete Q
+tile.character_mod.q_concrete_green.name=Green Concrete Q
+tile.character_mod.q_concrete_gray.name=Gray Concrete Q
+tile.character_mod.q_concrete_light_blue.name=Light Blue Concrete Q
+tile.character_mod.q_concrete_lime.name=Lime Concrete Q
+tile.character_mod.q_concrete_magenta.name=Magenta Concrete Q
+tile.character_mod.q_concrete_orange.name=Orange Concrete Q
+tile.character_mod.q_concrete_pink.name=Pink Concrete Q
+tile.character_mod.q_concrete_purple.name=Purple Concrete Q
+tile.character_mod.q_concrete_red.name=Red Concrete Q
+tile.character_mod.q_concrete_silver.name=Silver Concrete Q
+tile.character_mod.q_concrete_white.name=White Concrete Q
+tile.character_mod.q_concrete_yellow.name=Yellow Concrete Q
+
+#Concrete R
+tile.character_mod.r_concrete_black.name=Black Concrete R
+tile.character_mod.r_concrete_blue.name=Blue Concrete R
+tile.character_mod.r_concrete_brown.name=Brown Concrete R
+tile.character_mod.r_concrete_cyan.name=Cyan Concrete R
+tile.character_mod.r_concrete_green.name=Green Concrete R
+tile.character_mod.r_concrete_gray.name=Gray Concrete R
+tile.character_mod.r_concrete_light_blue.name=Light Blue Concrete R
+tile.character_mod.r_concrete_lime.name=Lime Concrete R
+tile.character_mod.r_concrete_magenta.name=Magenta Concrete R
+tile.character_mod.r_concrete_orange.name=Orange Concrete R
+tile.character_mod.r_concrete_pink.name=Pink Concrete R
+tile.character_mod.r_concrete_purple.name=Purple Concrete R
+tile.character_mod.r_concrete_red.name=Red Concrete R
+tile.character_mod.r_concrete_silver.name=Silver Concrete R
+tile.character_mod.r_concrete_white.name=White Concrete R
+tile.character_mod.r_concrete_yellow.name=Yellow Concrete R
+
+#Concrete S
+tile.character_mod.s_concrete_black.name=Black Concrete S
+tile.character_mod.s_concrete_blue.name=Blue Concrete S
+tile.character_mod.s_concrete_brown.name=Brown Concrete S
+tile.character_mod.s_concrete_cyan.name=Cyan Concrete S
+tile.character_mod.s_concrete_green.name=Green Concrete S
+tile.character_mod.s_concrete_gray.name=Gray Concrete S
+tile.character_mod.s_concrete_light_blue.name=Light Blue Concrete S
+tile.character_mod.s_concrete_lime.name=Lime Concrete S
+tile.character_mod.s_concrete_magenta.name=Magenta Concrete S
+tile.character_mod.s_concrete_orange.name=Orange Concrete S
+tile.character_mod.s_concrete_pink.name=Pink Concrete S
+tile.character_mod.s_concrete_purple.name=Purple Concrete S
+tile.character_mod.s_concrete_red.name=Red Concrete S
+tile.character_mod.s_concrete_silver.name=Silver Concrete S
+tile.character_mod.s_concrete_white.name=White Concrete S
+tile.character_mod.s_concrete_yellow.name=Yellow Concrete S
+
+#Concrete T
+tile.character_mod.t_concrete_black.name=Black Concrete T
+tile.character_mod.t_concrete_blue.name=Blue Concrete T
+tile.character_mod.t_concrete_brown.name=Brown Concrete T
+tile.character_mod.t_concrete_cyan.name=Cyan Concrete T
+tile.character_mod.t_concrete_green.name=Green Concrete T
+tile.character_mod.t_concrete_gray.name=Gray Concrete T
+tile.character_mod.t_concrete_light_blue.name=Light Blue Concrete T
+tile.character_mod.t_concrete_lime.name=Lime Concrete T
+tile.character_mod.t_concrete_magenta.name=Magenta Concrete T
+tile.character_mod.t_concrete_orange.name=Orange Concrete T
+tile.character_mod.t_concrete_pink.name=Pink Concrete T
+tile.character_mod.t_concrete_purple.name=Purple Concrete T
+tile.character_mod.t_concrete_red.name=Red Concrete T
+tile.character_mod.t_concrete_silver.name=Silver Concrete T
+tile.character_mod.t_concrete_white.name=White Concrete T
+tile.character_mod.t_concrete_yellow.name=Yellow Concrete T
+
+#Concrete U
+tile.character_mod.u_concrete_black.name=Black Concrete U
+tile.character_mod.u_concrete_blue.name=Blue Concrete U
+tile.character_mod.u_concrete_brown.name=Brown Concrete U
+tile.character_mod.u_concrete_cyan.name=Cyan Concrete U
+tile.character_mod.u_concrete_green.name=Green Concrete U
+tile.character_mod.u_concrete_gray.name=Gray Concrete U
+tile.character_mod.u_concrete_light_blue.name=Light Blue Concrete U
+tile.character_mod.u_concrete_lime.name=Lime Concrete U
+tile.character_mod.u_concrete_magenta.name=Magenta Concrete U
+tile.character_mod.u_concrete_orange.name=Orange Concrete U
+tile.character_mod.u_concrete_pink.name=Pink Concrete U
+tile.character_mod.u_concrete_purple.name=Purple Concrete U
+tile.character_mod.u_concrete_red.name=Red Concrete U
+tile.character_mod.u_concrete_silver.name=Silver Concrete U
+tile.character_mod.u_concrete_white.name=White Concrete U
+tile.character_mod.u_concrete_yellow.name=Yellow Concrete U
+
+#Concrete V
+tile.character_mod.v_concrete_black.name=Black Concrete V
+tile.character_mod.v_concrete_blue.name=Blue Concrete V
+tile.character_mod.v_concrete_brown.name=Brown Concrete V
+tile.character_mod.v_concrete_cyan.name=Cyan Concrete V
+tile.character_mod.v_concrete_green.name=Green Concrete V
+tile.character_mod.v_concrete_gray.name=Gray Concrete V
+tile.character_mod.v_concrete_light_blue.name=Light Blue Concrete V
+tile.character_mod.v_concrete_lime.name=Lime Concrete V
+tile.character_mod.v_concrete_magenta.name=Magenta Concrete V
+tile.character_mod.v_concrete_orange.name=Orange Concrete V
+tile.character_mod.v_concrete_pink.name=Pink Concrete V
+tile.character_mod.v_concrete_purple.name=Purple Concrete V
+tile.character_mod.v_concrete_red.name=Red Concrete V
+tile.character_mod.v_concrete_silver.name=Silver Concrete V
+tile.character_mod.v_concrete_white.name=White Concrete V
+tile.character_mod.v_concrete_yellow.name=Yellow Concrete V
+
+#Concrete W
+tile.character_mod.w_concrete_black.name=Black Concrete W
+tile.character_mod.w_concrete_blue.name=Blue Concrete W
+tile.character_mod.w_concrete_brown.name=Brown Concrete W
+tile.character_mod.w_concrete_cyan.name=Cyan Concrete W
+tile.character_mod.w_concrete_green.name=Green Concrete W
+tile.character_mod.w_concrete_gray.name=Gray Concrete W
+tile.character_mod.w_concrete_light_blue.name=Light Blue Concrete W
+tile.character_mod.w_concrete_lime.name=Lime Concrete W
+tile.character_mod.w_concrete_magenta.name=Magenta Concrete W
+tile.character_mod.w_concrete_orange.name=Orange Concrete W
+tile.character_mod.w_concrete_pink.name=Pink Concrete W
+tile.character_mod.w_concrete_purple.name=Purple Concrete W
+tile.character_mod.w_concrete_red.name=Red Concrete W
+tile.character_mod.w_concrete_silver.name=Silver Concrete W
+tile.character_mod.w_concrete_white.name=White Concrete W
+tile.character_mod.w_concrete_yellow.name=Yellow Concrete W
+
+#Concrete X
+tile.character_mod.x_concrete_black.name=Black Concrete X
+tile.character_mod.x_concrete_blue.name=Blue Concrete X
+tile.character_mod.x_concrete_brown.name=Brown Concrete X
+tile.character_mod.x_concrete_cyan.name=Cyan Concrete X
+tile.character_mod.x_concrete_green.name=Green Concrete X
+tile.character_mod.x_concrete_gray.name=Gray Concrete X
+tile.character_mod.x_concrete_light_blue.name=Light Blue Concrete X
+tile.character_mod.x_concrete_lime.name=Lime Concrete X
+tile.character_mod.x_concrete_magenta.name=Magenta Concrete X
+tile.character_mod.x_concrete_orange.name=Orange Concrete X
+tile.character_mod.x_concrete_pink.name=Pink Concrete X
+tile.character_mod.x_concrete_purple.name=Purple Concrete X
+tile.character_mod.x_concrete_red.name=Red Concrete X
+tile.character_mod.x_concrete_silver.name=Silver Concrete X
+tile.character_mod.x_concrete_white.name=White Concrete X
+tile.character_mod.x_concrete_yellow.name=Yellow Concrete X
+
+#Concrete Y
+tile.character_mod.y_concrete_black.name=Black Concrete Y
+tile.character_mod.y_concrete_blue.name=Blue Concrete Y
+tile.character_mod.y_concrete_brown.name=Brown Concrete Y
+tile.character_mod.y_concrete_cyan.name=Cyan Concrete Y
+tile.character_mod.y_concrete_green.name=Green Concrete Y
+tile.character_mod.y_concrete_gray.name=Gray Concrete Y
+tile.character_mod.y_concrete_light_blue.name=Light Blue Concrete Y
+tile.character_mod.y_concrete_lime.name=Lime Concrete Y
+tile.character_mod.y_concrete_magenta.name=Magenta Concrete Y
+tile.character_mod.y_concrete_orange.name=Orange Concrete Y
+tile.character_mod.y_concrete_pink.name=Pink Concrete Y
+tile.character_mod.y_concrete_purple.name=Purple Concrete Y
+tile.character_mod.y_concrete_red.name=Red Concrete Y
+tile.character_mod.y_concrete_silver.name=Silver Concrete Y
+tile.character_mod.y_concrete_white.name=White Concrete Y
+tile.character_mod.y_concrete_yellow.name=Yellow Concrete Y
+
+#Concrete Z
+tile.character_mod.z_concrete_black.name=Black Concrete Z
+tile.character_mod.z_concrete_blue.name=Blue Concrete Z
+tile.character_mod.z_concrete_brown.name=Brown Concrete Z
+tile.character_mod.z_concrete_cyan.name=Cyan Concrete Z
+tile.character_mod.z_concrete_green.name=Green Concrete Z
+tile.character_mod.z_concrete_gray.name=Gray Concrete Z
+tile.character_mod.z_concrete_light_blue.name=Light Blue Concrete Z
+tile.character_mod.z_concrete_lime.name=Lime Concrete Z
+tile.character_mod.z_concrete_magenta.name=Magenta Concrete Z
+tile.character_mod.z_concrete_orange.name=Orange Concrete Z
+tile.character_mod.z_concrete_pink.name=Pink Concrete Z
+tile.character_mod.z_concrete_purple.name=Purple Concrete Z
+tile.character_mod.z_concrete_red.name=Red Concrete Z
+tile.character_mod.z_concrete_silver.name=Silver Concrete Z
+tile.character_mod.z_concrete_white.name=White Concrete Z
+tile.character_mod.z_concrete_yellow.name=Yellow Concrete Z

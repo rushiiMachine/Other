@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "character_mod:b_concrete_black", "y": 0 },
+    "facing=west": { "model": "character_mod:b_concrete_black", "y": 90 },
+    "facing=north": { "model": "character_mod:b_concrete_black", "y": 180 },
+    "facing=east": { "model": "character_mod:b_concrete_black", "y": 270 }
+  }
+}
