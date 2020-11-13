@@ -1,0 +1,39 @@
+<html lang="en">
+
+<head>
+    <title>{{ channel_name }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='channel.css') }}">
+</head>
+<div class="jumbotron text-center jumbotron-fix">
+    <h1>#general</h1>
+    <p>Message order is newest at the top</p>
+</div>
+
+<body style="background-color: #2C2F33;">
+        <table style="border: 20px; border-color: whitesmoke;">
+        {% for i in range(0, resultslength) %}
+        <tr>
+            <th class="message-items" style="opacity: 50%"> {{ results[i][1] }} </th>
+            
+            {% if content[i]["content"][0] == "" %}
+                <td style="padding-left: 1em;"><code>IS EITHER AN EMBED OR AN IMAGE. SUPPORT COMING LATER</code></td>
+            {% else %}
+                <th class="message-items"> {{ content[i]["content"][0] }} </th>
+            {% endif %}
+
+            {% if results[i][3] == 1 %}
+                <td style="padding-left: 1em;"><code>DELETED</code></td>
+            {% endif %}
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>
