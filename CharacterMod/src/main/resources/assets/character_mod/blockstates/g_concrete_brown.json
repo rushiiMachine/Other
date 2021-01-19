@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=south": { "model": "character_mod:g_concrete_brown", "y": 0 },
-    "facing=west": { "model": "character_mod:g_concrete_brown", "y": 90 },
-    "facing=north": { "model": "character_mod:g_concrete_brown", "y": 180 },
-    "facing=east": { "model": "character_mod:g_concrete_brown", "y": 270 }
-  }
-}
