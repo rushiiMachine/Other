@@ -1,8 +1,0 @@
-{ 
-    "token"  : "[token]",
-    "prefix" : "+",
-    "host" : "[sqldb host]",
-    "user" : "[sqldb user]",
-    "password" : "[sqldb password]",
-    "database" : "isdbot"
-  }
