@@ -1,3 +1,0 @@
-Roses are red.
-12345 67 89
-A, B, C, D
