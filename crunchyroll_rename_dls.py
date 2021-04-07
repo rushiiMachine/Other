@@ -10,6 +10,6 @@ for _file in onlyfiles:
     match = re.search('-\d{6}', _file)
     if match:
         found = match.group(0)
-        renamedFile = _file.replace(found,"")
-        print("'"+_file+"'",'->',"'"+renamedFile+"'")
+        renamedFile = _file.replace(found, "")
+        print("'"+_file+"'", '->', "'"+renamedFile+"'")
         os.rename(join(dir_path, _file), join(dir_path, renamedFile))

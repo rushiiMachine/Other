@@ -1,13 +1,14 @@
 import praw
 
 credentials = {
-"client_id" : "",
-"client_secret" : "",
-"username": "",
-"password": "",
+    "client_id": "",
+    "client_secret": "",
+    "username": "",
+    "password": "",
 }
 
-reddit = praw.Reddit(client_id=credentials['client_id'], client_secret=credentials['client_secret'], username=credentials['username'], password=credentials['password'], user_agent="unsave_posts")
+reddit = praw.Reddit(client_id=credentials['client_id'], client_secret=credentials['client_secret'],
+                     username=credentials['username'], password=credentials['password'], user_agent="unsave_posts")
 
 saved = reddit.user.me().saved(limit=None)
 
