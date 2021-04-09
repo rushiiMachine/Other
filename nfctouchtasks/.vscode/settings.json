@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        ".dart_tool": true,
+        ".flutter-plugins*": true,
+        ".idea": true,
+        ".metadata": true,
+        ".packages": true,
+        "*.iml": true,
+        "build": true,
+        "pubspec.lock": true
+    }
+}

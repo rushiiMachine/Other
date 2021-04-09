@@ -1,0 +1,14 @@
+{
+  "name": "router-reboot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automatically reboot router (Netgear RAX40) at midnight.",
+  "scripts": {
+    "start": "pnpx tsc && "
+  },
+  "dependencies": {
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
