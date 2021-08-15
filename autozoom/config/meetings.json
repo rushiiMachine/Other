@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Health",
+    "url": "website url",
+    "id": "97073242998",
+    "days": "Monday,Thursday",
+    "hours": "8",
+    "minutes": "30"
+  },
+  {
+    "name": "Math",
+    "url": "website url",
+    "id": "94426699849 ",
+    "days": "Monday,Thursday",
+    "hours": "10",
+    "minutes": "50"
+  },
+  {
+    "name": "Orchestra",
+    "url": "website url",
+    "id": "92190695540 ",
+    "days": "Monday,Thursday",
+    "hours": "13",
+    "minutes": "30"
+  },
+  {
+    "name": "Science",
+    "url": "website url",
+    "id": "91888765551",
+    "days": "Tuesday,Friday",
+    "hours": "8",
+    "minutes": "30"
+  },
+  {
+    "name": "Social Studies",
+    "url": "website url",
+    "id": "92990300212",
+    "days": "Tuesday,Friday",
+    "hours": "10",
+    "minutes": "50"
+  },
+  {
+    "name": "Language Arts",
+    "url": "website url",
+    "id": "98718597910",
+    "days": "Tuesday,Friday",
+    "hours": "13",
+    "minutes": "30"
+  },
+  {
+    "name": "Social/Emotional Lynx Life",
+    "url": "website url",
+    "id": "pcmsband",
+    "days": "Wednesday",
+    "hours": "9",
+    "minutes": "40"
+  }
+]

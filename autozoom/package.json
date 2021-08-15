@@ -1,0 +1,28 @@
+{
+  "name": "pcmanager",
+  "version": "1.0.0",
+  "description": "Manages your pc though a locally hosted website.",
+  "main": "build/index.js",
+  "scripts": {
+    "prebuild": "rm -rf build",
+    "build": "node_modules/.bin/tsc",
+    "prestart": "npm run build",
+    "start": "cd build && clear && node index.js"
+  },
+  "author": "DiamondMiner88",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ffi-napi": "^3.0.1",
+    "node-cron": "^2.0.3",
+    "open": "^7.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.8",
+    "@types/ffi-napi": "^2.4.3",
+    "@types/node": "^14.11.1",
+    "@types/node-cron": "^2.0.3",
+    "tslint": "^6.1.3",
+    "typescript": "^4.0.3"
+  }
+}
