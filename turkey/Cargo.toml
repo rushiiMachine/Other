@@ -1,0 +1,9 @@
+[package]
+name = "turkey"
+version = "0.1.0"
+authors = ["Diamond <33725716+DiamondMiner88@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+msgbox = { git = "https://github.com/bekker/msgbox-rs" }
+winapi = {version = "0.3", features = ["wincon", "winuser"]}
